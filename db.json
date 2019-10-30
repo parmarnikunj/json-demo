@@ -1,4 +1,5 @@
-[
+{
+    "registrants": [
     {"name": "nirdosh", "lastName": "parmar", "gender": "Male", "flights": [{"from": "baroda", "to": "berlin", "number":"EZ 421", "time": "5:30"}]},
     {"name": "nirdosh", "lastName": "parmar", "gender": "Male", "flights": [{"from": "baroda", "to": "berlin", "number":"EZ 421", "time": "5:30"}]},
     {"name": "nirdosh", "lastName": "parmar", "gender": "Male", "flights": [{"from": "baroda", "to": "berlin", "number":"EZ 421", "time": "5:30"}]},
@@ -45,3 +46,4 @@
     {"name": "nirdosh", "lastName": "parmar", "gender": "Male", "flights": [{"from": "baroda", "to": "berlin", "number":"EZ 421", "time": "5:30"}]},
     {"name": "nirdosh", "lastName": "parmar", "gender": "Male", "flights": [{"from": "baroda", "to": "berlin", "number":"EZ 421", "time": "5:30"}]}
 ]
+}
